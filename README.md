@@ -14,7 +14,8 @@
   <a href="#llm-provider-configuration">LLM Providers</a> •
   <a href="#implementation">Implementation</a> •
   <a href="#installation--usage">Installation & Usage</a> •
-  <a href="#troubleshooting">Troubleshooting</a>
+  <a href="#troubleshooting">Troubleshooting</a> •
+  <a href="README_ZH.md">中文文档</a>
 </p>
 
 <p align="center">
